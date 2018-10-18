@@ -188,6 +188,5 @@ class OPUSZCZONACHATA(PLACE):
 
             elif DECYZJA == 'NIE' or DECYZJA == 'nie' or DECYZJA == 'N' or DECYZJA == 'n':
                 exit()
-
             else:
                 print("Błędny wybór. Wybierz TAK/NIE")
